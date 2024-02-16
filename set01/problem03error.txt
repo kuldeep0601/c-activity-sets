@@ -1,0 +1,5 @@
+PS C:\Users\kulde\Desktop\c-activity-sets\set01> gcc problem03.c
+PS C:\Users\kulde\Desktop\c-activity-sets\set01> ./a.exe        
+enter te value : 4
+enter te value : 2
+the sum of 4 and 2 is 6

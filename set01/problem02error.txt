@@ -1,0 +1,3 @@
+PS C:\Users\kulde\Desktop\c-activity-sets\set01> gcc -g -O0 problem02.c -o problem02.exe
+PS C:\Users\kulde\Desktop\c-activity-sets\set01> ./a.exe
+the su of 4 and 6 is 10
