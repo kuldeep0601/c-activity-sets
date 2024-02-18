@@ -1,0 +1,6 @@
+PS C:\c-activity-sets\set01> gcc problem04.c
+PS C:\c-activity-sets\set01> ./a.exe                        
+enter the value of a
+q
+enter the value of b
+the sum of 2813952 and 0 is 2813952

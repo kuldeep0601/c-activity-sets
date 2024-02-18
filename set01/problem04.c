@@ -2,6 +2,7 @@
 void input(int *a, int *b);
 void add (int a, int b, int *sum);
 void output(int a, int b, int sum);
+
 void input(int *a, int *b)
 {
     printf("enter the value of a\n");
