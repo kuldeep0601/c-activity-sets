@@ -1,0 +1,7 @@
+PS C:\c-activity-sets\set01> gcc problem04.c
+PS C:\c-activity-sets\set01> ./a.exe          
+enter the value of a
+4
+enter the value of b
+5
+the sum of 4 and 5 is 9
