@@ -1,0 +1,6 @@
+PS C:\c-activity-sets\set01> gcc problem06.c
+PS C:\c-activity-sets\set01> ./a.exe        
+Enter a number:4
+Enter a number:6
+Enter a number:8
+The largest of 4, 6 and 8 is:8
