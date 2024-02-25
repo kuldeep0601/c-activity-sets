@@ -1,0 +1,4 @@
+PS C:\c-activity-sets\set01> gcc problem07.c
+PS C:\c-activity-sets\set01> ./a.exe        
+Enter a value of number:4
+the sum of natural numbers upto 4 is: 4
